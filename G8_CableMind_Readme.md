@@ -75,3 +75,5 @@ Camera-to-robot transform: T_robot_cam = inv(camera_pose) <br>
 Positions are converted between meters (internal) and millimeters (robot API) <br>
 MIN_Z = 5 mm floor enforced on all commanded positions to prevent ground collision <br>
 
+Github link for VLA codes and files:
+https://github.com/PrashCode5321/cable-routing-using-vla
