@@ -63,7 +63,7 @@ Single Y-clip test: <br>
 bashpython evaluate_y.py <br>
 Full autonomous sequence: <br>
 bashpython modular_cable_mind.py <br>
-# Enter sequence when prompted, e.g.: 6 8 7 9 <br>
+**Enter sequence when prompted, e.g.: 6 8 7 9 <br>**
 
 In the single-clip scripts, a camera preview window will open. Press k to confirm and execute, or any other key to skip.
 
