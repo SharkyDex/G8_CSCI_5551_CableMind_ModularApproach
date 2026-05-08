@@ -56,7 +56,7 @@ Maintains a motion_history buffer to smooth approach direction decisions across 
 Hardware & Dependencies <br>
 ComponentDetailsRobotxArm Lite6CameraZED Stereo CameraFiducialsAprilTags (IDs 6, 7, 8, 9)Python libsnumpy, opencv-python, scipy, xarm-python-sdkInternal <br><br>modulesutils.presets, utils.zed_camera, utils.vis_utils, detector.BracketDetector <br>
 
-Usage <br>
+**Usage:** <br>
 Single round clip test: <br>
 bashpython evaluate_round.py <br>
 Single Y-clip test: <br>
