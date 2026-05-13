@@ -1,6 +1,6 @@
 CSCI - 5551 Introduction to Intelligent Robotics Systems
 
-Group 8
+Group 8 <br>
 Aayush Anand (anand239@umn.edu) <br>
 Adil Arya (arya0033@umn.edu) <br>
 Kshitij Nazirkar (nazir023@umn.edu) <br>
